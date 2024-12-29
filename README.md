@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rlbrownies
-- 👀 I’m interested in horror, ai art, writing, and video games.
-- 🌱 I’m currently learning everything. I just started.
+- 👀 I’m interested in horror, writing, and video games.
+- 🌱 I’m currently learning HTML & CSS.
 - 💞️ I’m looking to collaborate on: Nothing, at the moment. I'm still learning.
-- 😄 Pronouns: She/They
 - ⚡ Fun fact: I'd rather live in the woods. With dogs.
 
 <!---
